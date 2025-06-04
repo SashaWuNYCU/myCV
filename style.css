@@ -17,6 +17,14 @@ body {
     gap: 1rem;
   }
   
+  ul {
+  font-weight: bold;
+  }
+
+  li {
+    font-weight: normal;
+  }
+
   nav a {
     color: white;
     text-decoration: none;
